@@ -1,0 +1,105 @@
+{
+    "color": "#000000",
+    "inputs": {
+        "photo": {
+            "value": null,
+            "show": true
+        },
+		"fullname": {
+            "value": null,
+            "show": true
+        },
+		"logo": {
+            "value": null,
+            "show": true
+        },
+		"title": {
+            "value": null,
+            "show": true
+        },
+		"department": {
+            "value": null,
+            "show": true
+        },
+		"company": {
+            "value": null,
+            "show": true
+        },
+		"phone": {
+            "value": null,
+            "show": true
+        },
+		"mobile": {
+            "value": null,
+            "show": true
+        },
+		"email": {
+            "value": null,
+            "show": true
+        },
+		"website": {
+            "value": null,
+            "show": true
+        },
+		"addressline1": {
+            "value": null,
+            "show": true
+        },
+		"addressline2": {
+            "value": null,
+            "show": true
+        },
+		"addressline3": {
+            "value": null,
+            "show": true
+        },
+		"zipcode": {
+            "value": null,
+            "show": true
+        },
+		"locality": {
+            "value": null,
+            "show": true
+        },
+		"country": {
+            "value": null,
+            "show": true
+        },
+		"facebook": {
+            "value": null,
+            "show": true
+        },
+		"twitter": {
+            "value": null,
+            "show": true
+        },
+		"linkedin": {
+            "value": null,
+            "show": true
+        },
+		"instagram": {
+            "value": null,
+            "show": true
+        },
+		"youtube": {
+            "value": null,
+            "show": true
+        },
+		"bannerimg": {
+            "value": null,
+            "show": true
+        },
+		"bannerurl": {
+            "value": null,
+            "show": true
+        },
+        "ecofriendly": {
+            "value": null,
+            "show": true
+        },
+        "privacy": {
+            "value": null,
+            "show": true
+        }
+    }
+}
